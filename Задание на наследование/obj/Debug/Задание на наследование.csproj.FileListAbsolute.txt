@@ -1,0 +1,6 @@
+C:\Users\Danil\Desktop\Для работы\Animals\Задание на наследование\bin\Debug\Задание на наследование.exe.config
+C:\Users\Danil\Desktop\Для работы\Animals\Задание на наследование\bin\Debug\Задание на наследование.exe
+C:\Users\Danil\Desktop\Для работы\Animals\Задание на наследование\bin\Debug\Задание на наследование.pdb
+C:\Users\Danil\Desktop\Для работы\Animals\Задание на наследование\obj\Debug\Задание на наследование.csprojResolveAssemblyReference.cache
+C:\Users\Danil\Desktop\Для работы\Animals\Задание на наследование\obj\Debug\Задание на наследование.exe
+C:\Users\Danil\Desktop\Для работы\Animals\Задание на наследование\obj\Debug\Задание на наследование.pdb
